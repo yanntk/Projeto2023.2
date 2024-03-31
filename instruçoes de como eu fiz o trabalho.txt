@@ -1,1 +1,14 @@
-primeiro instalei o javaFX https://www.youtube.com/watch?v=Vk4cICoRh_U
+Instalei o javaFX e de preferencia assistir esse video https://www.youtube.com/watch?v=Vk4cICoRh_U
+O codigo só funciona com a interface javafx
+Exatamente o que eu  fiz foi... 
+1. Baixei os JARs do JavaFX: Primeiro, você precisa baixar os JARs do JavaFX correspondentes à versão que você está usando. Você pode encontrá-los no site oficial do JavaFX ou em repositórios de artefatos Maven, como Maven Central.
+
+2. Crie uma pasta para os JARs: Crie uma pasta em seu projeto onde você possa armazenar os JARs do JavaFX. Por exemplo, você pode criar uma pasta chamada `libs` na raiz do seu projeto.
+
+3. Adicione os JARs ao seu projeto no IDE**: Abra as configurações de dependências do seu projeto no seu IDE. Em seguida, adicione os JARs que você baixou anteriormente à sua pasta `libs` como dependências do projeto.
+
+4. Configuração do Classpath: Certifique-se de que os JARs do JavaFX estão no classpath do seu projeto. Isso pode ser feito através das configurações do projeto no seu IDE.
+
+5. Atualize o projeto: Após adicionar os JARs e configurar o classpath, você pode precisar atualizar ou reconstruir o projeto para que as alterações tenham efeito.
+
+
