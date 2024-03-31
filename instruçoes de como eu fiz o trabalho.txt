@@ -28,4 +28,18 @@ Finção de cada biblioteca utilizada
 7. java.util.Timer: Esta classe é um utilitário para agendar tarefas para execução em um determinado momento no futuro.
 
 8. java.util.TimerTask: Esta classe é uma representação de uma tarefa a ser agendada pelo Timer.
+----------------------------------------------------------------------------
+Projeto Banner
+Este projeto consiste em uma aplicação Java para exibir um banner de imagens em um JFrame. A cada 5 segundos, a imagem exibida é alterada para a próxima na lista de caminhos fornecidos. Além disso, suporta diversos tipos de imagens, incluindo arquivos JPEG e PNG.
+
+.Funcionalidades Implementadas
+-Exibição de um banner de imagens em um JFrame.
+-Troca automática da imagem exibida a cada 5 segundos.
+-Suporte para diversos formatos de imagens, incluindo JPEG e PNG.
+-Ajuste automático do tamanho do painel de acordo com as dimensões da imagem.
+.Funcionalidades Futuras Desejadas
+-Adição de funcionalidade para permitir que o usuário adicione novas imagens durante a execução do programa.
+-Melhoria na interface do usuário, como adição de botões de controle para pausar/retomar a troca de imagens.
+-Implementação de um sistema de transição suave entre as imagens.
+-Suporte para outros formatos de mídia, como vídeos e gifs.
 
