@@ -1,0 +1,31 @@
+Instalei o javaFX e de preferencia assistir esse video https://www.youtube.com/watch?v=Vk4cICoRh_U
+O codigo só funciona com a interface javafx
+Exatamente o que eu  fiz foi... 
+1. Baixei os JARs do JavaFX: Primeiro, você precisa baixar os JARs do JavaFX correspondentes à versão que você está usando. Você pode encontrá-los no site oficial do JavaFX ou em repositórios de artefatos Maven, como Maven Central.
+
+2. Crie uma pasta para os JARs: Crie uma pasta em seu projeto onde você possa armazenar os JARs do JavaFX. Por exemplo, você pode criar uma pasta chamada `libs` na raiz do seu projeto.
+
+3. Adicione os JARs ao seu projeto no IDE**: Abra as configurações de dependências do seu projeto no seu IDE. Em seguida, adicione os JARs que você baixou anteriormente à sua pasta `libs` como dependências do projeto.
+
+4. Configuração do Classpath: Certifique-se de que os JARs do JavaFX estão no classpath do seu projeto. Isso pode ser feito através das configurações do projeto no seu IDE.
+
+5. Atualize o projeto: Após adicionar os JARs e configurar o classpath, você pode precisar atualizar ou reconstruir o projeto para que as alterações tenham efeito.
+
+---------------------------------------------------------------------------
+Finção de cada biblioteca utilizada 
+1. javax.imageio.ImageIO: Esta biblioteca fornece classes para ler e gravar imagens em vários formatos de arquivo.
+
+2. javax.swing: Esta biblioteca é parte do Java Swing, que é um conjunto de bibliotecas gráficas para a criação de interfaces de usuário (UI). Ela fornece componentes de GUI como botões, caixas de texto, janelas, etc.
+
+3. java.awt: Esta biblioteca é o Abstract Window Toolkit (AWT), que fornece uma API para criar e gerenciar interfaces gráficas de usuário em Java. Ela fornece classes para desenho, manipulação de eventos, layout de componentes, etc.
+
+4. java.awt.image.BufferedImage: Esta classe representa uma imagem em memória, que pode ser usada para manipulação de imagens em Java.
+
+5. java.io.File: Esta classe representa um arquivo ou diretório no sistema de arquivos. É usada para manipulação de arquivos, como ler, gravar ou manipular propriedades de arquivos.
+
+6. java.io.IOException: Esta exceção é lançada quando ocorre um erro de entrada/saída durante operações de leitura/gravação de arquivos.
+
+7. java.util.Timer: Esta classe é um utilitário para agendar tarefas para execução em um determinado momento no futuro.
+
+8. java.util.TimerTask: Esta classe é uma representação de uma tarefa a ser agendada pelo Timer.
+
