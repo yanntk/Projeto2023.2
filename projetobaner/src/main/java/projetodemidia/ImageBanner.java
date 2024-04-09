@@ -15,14 +15,14 @@ public class ImageBanner extends JFrame {
             "C:\\Users\\Samuel\\Downloads\\WhatsApp Image 2023-09-17 at 14.27.42.jpeg",
             "C:\\Users\\Samuel\\Downloads\\Comprovante_2023-09-16T08_30_53.260915.png",
             "C:\\Users\\Samuel\\Downloads\\Little Dark Age - MGMT【TRADUÇÃO】 (1)....mp4"
-            // adicione mais caminhos de imagens conforme necessário
+            // adicione mais caminhos de imagens conforme necessário, os comentarios são importantes para meu estudo.
     };
     private ImageBannerDAO dao;
 
     public ImageBanner() {
         this.dao = new ImageBannerDAO();
 
-        // Define o layout do quadro
+        //Define o layout do quadro 
         this.setLayout(new FlowLayout());
 
         // Define o tamanho e o título do quadro
